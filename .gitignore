@@ -1,0 +1,11 @@
+ # Büyük dosyalar
+*.pt
+train/
+valid/
+test/
+runs/
+
+# Python
+__pycache__/
+*.pyc
+
