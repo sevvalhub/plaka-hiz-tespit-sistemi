@@ -1,4 +1,4 @@
-# 🚗 Akıllı Trafik Kontrol Sistemi
+# 🚗 Görüntü İşleme Tabanlı Plaka Okuma ve LCD Göstergeli Hız Tanıma Sistemi
 
 Kamera ile araç plakasını tanıyan, ultrasonik sensörle hızını ölçen ve sonuçları LCD ekranda gösteren Arduino + Python tabanlı akıllı trafik kontrol sistemi.
 
